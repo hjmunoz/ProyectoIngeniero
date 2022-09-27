@@ -1,0 +1,9 @@
+aso-metadata:
+    uuaa            : CSCH
+    name            : merchantsmerchantsacquirementsacquirementscontractssendv0
+    type            : service
+    country         : CO
+    version         : 0.0.1-SNAPSHOT
+    flavour         : old
+    namespace       : co.csch.app-id-1187091.dsg
+    repoName        : merchantsmerchantsacquirementsacquirementscontractssendv0

@@ -1,0 +1,142 @@
+{
+  "acquirementInformation": {
+    "completionDate": "2012-04-23T18:25:43.511Z",
+    "filedCity": "Bogota",
+    "business": {
+      "id": "063546",
+      "legalName": "Operaciones Colombia Importaciones S.A.",
+      "doingBusinessAs": "Exodus S.A.",
+      "commercialRegister": "2342352354",
+      "businessDocument": {
+        "documentType": {
+          "id": "NIT"
+        },
+        "documentNumber": "2344645234"
+      },
+      "economicActivity": "CIIU",
+      "merchantCategoryCode": "MCC",
+      "stores": [
+        {
+          "address": {
+            "location": {
+              "formattedAddress": "Cr 100 #23-45 Oficina 402"
+            }
+          },
+          "saleType": "PRESENTIAL_SALE"
+        }
+      ],
+      "mailingAddress": {
+        "address": {
+          "location": {
+            "formattedAddress": "Cr 100 #23-45 Oficina 402"
+          }
+        },
+        "email": "email@exodus.com.co"
+      },
+      "taxResponsibilities": [
+        {
+          "code": "1"
+        }
+      ]
+    },
+    "legalRepresentative": {
+      "identityDocument": {
+        "documentType": {
+          "id": "CC"
+        },
+        "documentNumber": "23425345"
+      },
+      "firstName": "Juan",
+      "firstLastName": "Saldariaga",
+      "mobileNumber": "234234234",
+      "city": "Bogota",
+      "email": "juan.saldarriaga@exodus.com.co",
+      "shareholdingPercentage": 35,
+      "address": {
+        "location": {
+          "formattedAddress": "Cr 100 #23-45 Oficina 402"
+        }
+      }
+    },
+    "shareholders": [
+      {
+        "fullName": "Juliana Masias",
+        "identityDocument": {
+          "documentType": {
+            "id": "CC"
+          },
+          "documentNumber": "23425345"
+        },
+        "shareholdingPercentage": 65
+      }
+    ],
+    "relatedContract": {
+      "number": "21234345235235",
+      "bank": {},
+      "holder": {
+        "identityDocument": {
+          "documentNumber": "3235425-9"
+        },
+        "fullName": "Exodus S.A."
+      }
+    }
+  },
+  "conditions": {
+    "serviceName": "Adquirencia - Venta con datáfono",
+    "fees": {
+      "itemizeFees": [
+        {
+          "feeType": "VISA_CREDIT",
+          "itemizeFeeUnit": {
+            "amount": 4,
+            "currency": "COP",
+            "unitType": "PERCENTAGE"
+          }
+        },
+        {
+          "feeType": "VISA_DEBIT",
+          "itemizeFeeUnit": {
+            "amount": 4,
+            "currency": "COP",
+            "unitType": "PERCENTAGE"
+          }
+        },
+        {
+          "feeType": "VISA_ELECTRON",
+          "itemizeFeeUnit": {
+            "amount": 4,
+            "currency": "COP",
+            "unitType": "PERCENTAGE"
+          }
+        },
+        {
+          "feeType": "MASTER_CREDIT",
+          "itemizeFeeUnit": {
+            "amount": 4,
+            "currency": "COP",
+            "unitType": "PERCENTAGE"
+          }
+        },
+        {
+          "feeType": "MASTER_DEBIT",
+          "itemizeFeeUnit": {
+            "amount": 4,
+            "currency": "COP",
+            "unitType": "PERCENTAGE"
+          }
+        },
+        {
+          "feeType": "MASTER_MAESTRO",
+          "itemizeFeeUnit": {
+            "amount": 4,
+            "currency": "COP",
+            "unitType": "PERCENTAGE"
+          }
+        }
+      ]
+    }
+  },
+  "contractInformation": {
+    "reference": "64817791"
+  }
+}
